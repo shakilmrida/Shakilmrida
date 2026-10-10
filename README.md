@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Shakil Mrida 👋
 
-<!--
-**shakilmrida/Shakilmrida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Full-Stack Web Developer
 
-Here are some ideas to get you started:
+I enjoy building creative, responsive, and user-friendly web experiences.
+I'm continuously learning and improving my skills by building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning full-stack web development
+- 💻 Interested in frontend, backend, and databases
+- 🚀 Building practical real-world projects
+- 🎯 Goal: Become a professional Full-Stack Web Developer
+
+### 🛠 Technologies & Tools
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Learning and exploring
+- **Tools:** Git, GitHub, VS Code
+
+### 📌 Featured Projects
+More projects coming soon! I'm building practical projects to strengthen my skills.
+
+### 🤝 Connect With Me
+
+- GitHub:[@ShakilMrida](https://github.com/ShakilMrida)
+
+---
+
+*Always learning. Always building. Always improving.*
